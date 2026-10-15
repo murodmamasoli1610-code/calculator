@@ -1,0 +1,6 @@
+{
+  "name": "Diamond Calculator",
+  "description": "A minimalist, premium calculator with diamond cyan accents, clean typography, keyboard navigation, and precision arithmetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
